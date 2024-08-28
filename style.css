@@ -1,0 +1,27 @@
+/* o table, th e tr foram agrupados em apenas uma tag para facilitar na hora de atribuir o color, que muda a cor das tags inseridas */
+
+table, th, tr {
+    border:1px solid white;
+    color: white;
+  }
+  
+  /* o width ta mudando o tamanho das imagens */
+  img {
+    width: 50px;
+  }
+  
+  /* aqui é onde é utilizado o body para eu poder mudar a cor do fundo */
+  body {
+    background-color: black;
+  }
+  
+  /* o link normalmente tem um sublhinhado, e com o text decoration eu consigo tirar */
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* o hover vai fazer com que ao passar com o mouse encima do link, o mesmo mude de cor */
+  a:hover {
+    color: #71b4e3;
+  }
