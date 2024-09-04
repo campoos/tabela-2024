@@ -24,4 +24,3 @@ adquirido  sobre as linguagens de marcação, HTML, CSS e Markdown, no curso Té
 
 ### Autor
 - [João Victor Campos](https://github.com/campoos)
-# tabela-2024
